@@ -1,1 +1,5 @@
 # SpamSms
+
+
+
+pkg update && upgrade
