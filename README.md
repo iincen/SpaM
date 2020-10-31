@@ -1,6 +1,7 @@
 # SpamSms
 tools spam sms 
-MASIH TAHAP RENOVASI JADI MAKLUMIN YA BWANG :V
+kalo error sabar ya om soalnya
+MASIH TAHAP RENOVASI JADI MAKLUMIN BWANG :V
 
 # How To Use
 
