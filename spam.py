@@ -7,19 +7,18 @@ class Main:
 
 	def menu(self):
 		print("""
-		+++++++++++++++++++++++++++++
-		-      S P A M  S M S       -
-		+---------------------------+
-		-       Author : c3n        -
-		=============================
-		        "TULUNGAGUNG"
-TOOLS INI WORK HANYA UNTUK NOMOR INDONESIA +62 !!
-1. OTP Olx.co.id
+		   ╔═╗┌─┐┌─┐┌┬┐┌┬┐┌─┐┬─┐
+                   ╚═╗├─┘├─┤││││││├┤ ├┬┘
+                   ╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
+		   [!] Author : c3n
+		   [!] github : https://github.com/iincen
+TOOLS INI WORK HANYA UNTUK NOMOR INDONESIA !!
+1. OTP olx.co.id
 """)
 		pilih=int(input('root@kali> '))
 		if pilih == 1:
 			import src.olx
-		else: print("[!] lihat menu dong(o)");self.menu()
+		else: print("[!] lihat menununya om");self.menu()
 
 	def detekos(self):
 		#remove cache
